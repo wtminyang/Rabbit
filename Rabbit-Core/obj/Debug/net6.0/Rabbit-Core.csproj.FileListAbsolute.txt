@@ -1,0 +1,12 @@
+D:\Rabbit\Rabbit-Core\Rabbit-Core\bin\Debug\net6.0\Rabbit-Core.deps.json
+D:\Rabbit\Rabbit-Core\Rabbit-Core\bin\Debug\net6.0\Rabbit-Core.dll
+D:\Rabbit\Rabbit-Core\Rabbit-Core\bin\Debug\net6.0\Rabbit-Core.pdb
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.csproj.AssemblyReference.cache
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.AssemblyInfoInputs.cache
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.AssemblyInfo.cs
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.csproj.CoreCompileInputs.cache
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.dll
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\refint\Rabbit-Core.dll
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\Rabbit-Core.pdb
+D:\Rabbit\Rabbit-Core\Rabbit-Core\obj\Debug\net6.0\ref\Rabbit-Core.dll
